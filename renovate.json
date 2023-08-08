@@ -16,6 +16,9 @@
       "matchUpdateTypes": [
         "major"
       ]
+    },
+     {
+      "commitBody": "Upgrade"
     }
     
   ]
