@@ -5,7 +5,7 @@
     ":assignee(codereacher15)",
     ":reviewer(codereacher15)"
   ],
- "lockFileMaintenance": {
+  "lockFileMaintenance": {
     "enabled": false
   },
   "packageRules": [
@@ -17,10 +17,12 @@
         "major"
       ]
     },
-     {
+    {
       "commitBody": "Upgrade"
     }
+    
     
   ]
 
 }
+
