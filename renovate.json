@@ -12,14 +12,13 @@
     {
       "prHourlyLimit": 2,
       "dependencyDashboardApproval": true,
+       "commitBody": "Upgrade",
       "branchPrefix": "feature/",
       "matchUpdateTypes": [
         "major"
       ]
     },
-    {
-      "commitBody": "Upgrade"
-    }
+   
     
     
   ]
