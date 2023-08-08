@@ -1,0 +1,23 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    ":assignee(codereacher15)",
+    ":reviewer(codereacher15)"
+  ],
+ "lockFileMaintenance": {
+    "enabled": false
+  },
+  "packageRules": [
+    {
+      "prHourlyLimit": 2,
+      "dependencyDashboardApproval": true,
+      "branchPrefix": "feature/",
+      "matchUpdateTypes": [
+        "major"
+      ]
+    }
+    
+  ]
+
+}
