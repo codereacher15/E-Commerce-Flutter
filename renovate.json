@@ -17,7 +17,7 @@
       "matchUpdateTypes": [
         "major"
       ],
-      "groupName": "all",
+      "groupName": "version",
     },
    
     
