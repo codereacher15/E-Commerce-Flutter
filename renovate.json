@@ -16,7 +16,8 @@
       "branchPrefix": "feature/",
       "matchUpdateTypes": [
         "major"
-      ]
+      ],
+      "groupName": "all",
     },
    
     
